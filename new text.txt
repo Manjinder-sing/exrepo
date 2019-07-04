@@ -3,3 +3,5 @@ $ git commit -a -m"my new file"
 [master 0f69dd1] my new file
  1 file changed, 1 insertion(+)
  create mode 100644 new text.txt
+this is the next update
+ by manjinder
