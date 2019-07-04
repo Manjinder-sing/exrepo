@@ -5,3 +5,16 @@ $ git commit -a -m"my new file"
  create mode 100644 new text.txt
 this is the next update
  by manjinder
+$ git push
+fatal: AggregateException encountered.
+   One or more errors occurred.
+Username for 'https://github.com': Manjinder-sing
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 346 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Manjinder-sing/exrepo.git
+   3e5ed21..f0fa2d8  master -> master
+my best friend is hayer
